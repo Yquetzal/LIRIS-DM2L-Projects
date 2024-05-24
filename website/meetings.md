@@ -6,6 +6,16 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 
 ## You can add the DM2L meetings schedule to your calendar using the following [link](https://calendar.google.com/calendar/ical/55666c87f63af1371cd9abc408dc68609b2c2f9c6406fe3fca1d724f1311da8b%40group.calendar.google.com/public/basic.ics).
 
+--------
+
+### PhD defence rehersal
+
+**Day, Time, Location**:  Friday May 32 2024, 14:00, Salle nautibus C4
+
+**Speaker**: Auday Berro
+
+**Abstract**: 
+
 --
 
 ### Learning  and Model Transfer  for  Manifold-Valued Data
