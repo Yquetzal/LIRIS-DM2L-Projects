@@ -10,7 +10,7 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 
 ### Paraphrase generation for conversational services learning (PhD defence rehersal)
 
-**Day, Time, Location**:  Friday May 32 2024, 14:00, Salle nautibus C4
+**Day, Time, Location**:  Friday May 31 2024, 11:00, Salle nautibus C4
 
 **Speaker**: Auday Berro
 
