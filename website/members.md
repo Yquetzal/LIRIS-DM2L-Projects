@@ -1,9 +1,12 @@
 Postdocs
 ============
 
+**Alessio Ragno** - INSA -- [Website](https://alessio.ragno.info) \- Dates: 2024 to 2025
+
+* * * 
+
 **Célestin Coquidé** - UCBL - [Website](https://scholar.google.fr/citations?user=RuO7XpYAAAAJ&hl=en) \- Dates: 2023 to 2025  
 **Project**: BIT-STABLENET: Extraction of stable relations between entities in crypto-currencies  
-**Supervision**: Rémy Cazabet
 
 Engineer
 ============
@@ -14,6 +17,12 @@ Engineer
 
 PhD Students
 ============
+
+**Elouan Vincent** - INSA - 
+**PhD Title**: Apprentissage auto-supervisé sur des graphes hétérogènes avec transport optimal : contribution à l’analyse des comportements et des dynamiques sociales des animaux
+**Supervision**: Céline Robardet, Marc Plantevit
+
+* * *
 
 **Yassir Lairgi** - UCBL - [Website](https://liris.cnrs.fr/en/member-page/yassir-lairgi) \- Dates: 2023 to 2026  
 **PhD Title**: Detection of Weak Signals in Graph-oriented Data: An Approach using LLM and DGNN  
