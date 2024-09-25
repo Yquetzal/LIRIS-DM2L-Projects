@@ -45,11 +45,6 @@ PhD Students
 
 * * *
 
-**Thibaut CHATAING** - INSA, [PALO IT](https://www.palo-it.com/fr/) - [Website](https://liris.cnrs.fr/page-membre/thibaut-chataing) \- Dates: 2022 to 2025  
-**PhD Title**: Construction de modèles de classification supervisée à partir de données provenant d'un réseau d'experts  
-**Supervision**: Céline Robardet, Marc Plantevit
-
-* * *
 
 **Alice BRENON** - CNRS - [Website](https://liris.cnrs.fr/page-membre/alice-brenon) \- Dates: 2021 to 2024  
 **PhD Title**: Methods and tools for the diachronic study of geographic discourse in French encycopedia  
@@ -61,18 +56,7 @@ PhD Students
 **PhD Title**: Predicting and explaining health trajectories using omics data and XAI  
 **Supervision**: Rémy Cazabet, Marc Plantevit
 
-* * *
 
-
-**Florian BAUD** - UCBL - [Website](https://florianbaud.github.io/) \- Dates: 2020 to 2024  
-**PhD Title**: Les agents conversationnels neuronaux à mémoire  
-**Supervision**: Alexandre Aussem
-
-* * *
-
-**Auday BERRO** - UCBL, ECL - [Website](https://github.com/AudayBerro) \- Dates: 2019 to 2024  
-**PhD Title**: Apprentissage automatique pour les spécifications déclaratives et les services cognitifs  
-**Supervision**: Boualem Benatallah, Khalid Benabdeslem
 
 
 Past Members
@@ -108,6 +92,25 @@ Mehdi Kaytoue (Until 2019 - En détachement)
 
 Alumni (PhD students + Postdoc, Engineers)
 ==============================
+
+
+**Florian BAUD** - UCBL - [Website](https://florianbaud.github.io/) \- Dates: 2020 to 2024  
+**PhD Title**: Les agents conversationnels neuronaux à mémoire  
+**Supervision**: Alexandre Aussem
+
+* * *
+
+**Auday BERRO** - UCBL, ECL - [Website](https://github.com/AudayBerro) \- Dates: 2019 to 2024  
+**PhD Title**: Apprentissage automatique pour les spécifications déclaratives et les services cognitifs  
+**Supervision**: Boualem Benatallah, Khalid Benabdeslem
+
+* * *
+
+**Thibaut CHATAING** - INSA, [PALO IT](https://www.palo-it.com/fr/) - [Website](https://liris.cnrs.fr/page-membre/thibaut-chataing) \- Dates: 2022 to 2024  
+**PhD Title**: Construction de modèles de classification supervisée à partir de données provenant d'un réseau d'experts  
+**Supervision**: Céline Robardet, Marc Plantevit
+
+* * *
 
 **Léonard TSCHORA** - INSA, [BCM Energy](http://www.bcmenergy.fr/fr) - [Website](https://liris.cnrs.fr/page-membre/leonard-tschora) \- Dates: 2020 to 2024  
 **PhD Title**: Machine Learning Techniques for electricity prices forecasting  
