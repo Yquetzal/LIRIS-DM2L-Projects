@@ -9,15 +9,17 @@ Postdocs
 **Célestin Coquidé** - UCBL - [Website](https://scholar.google.fr/citations?user=RuO7XpYAAAAJ&hl=en) \- Dates: 2023 to 2025  
 **Project**: BIT-STABLENET: Extraction of stable relations between entities in crypto-currencies  
 
-Engineer
-============
 
-**Antoine Taroni** - CNRS - [Website]([https://scholar.google.fr/citations?user=RuO7XpYAAAAJ&hl=en](https://liris.cnrs.fr/page-membre/antoine-taroni)) \- Dates: 2023 to 2024  
-**Project**: GEODE: Toponym Disambiguation, Entity Linking and Geographic Knowledge Graphs.    
-**Supervision**: Ludovic Moncla
 
 PhD Students
 ============
+
+
+**Antoine Taroni** - INSA - [Website](https://liris.cnrs.fr/page-membre/antoine-taroni) \- Dates: 2024 to 2027  
+**PhD Title**: Interprétabilité des grands modèles de langue : vers une approche hybride neuro-symbolique pour l’analyse du discours géographique   
+**Supervision**: Frédérique Laforest, Ludovic Moncla
+
+* * *
 
 **Elouan Vincent** - INSA - 
 **PhD Title**: Apprentissage auto-supervisé sur des graphes hétérogènes avec transport optimal : contribution à l’analyse des comportements et des dynamiques sociales des animaux
@@ -103,6 +105,11 @@ Mehdi Kaytoue (Until 2019 - En détachement)
 Alumni (PhD students + Postdoc, Engineers)
 ==============================
 
+**Antoine Taroni** - CNRS - [Website](https://liris.cnrs.fr/page-membre/antoine-taroni) \- Dates: 2023 to 2024  
+**Engineer**: GEODE project: Toponym Disambiguation, Entity Linking and Geographic Knowledge Graphs.    
+**Supervision**: Ludovic Moncla
+
+* * *
 
 **Florian BAUD** - UCBL - [Website](https://florianbaud.github.io/) \- Dates: 2020 to 2024  
 **PhD Title**: Les agents conversationnels neuronaux à mémoire  
