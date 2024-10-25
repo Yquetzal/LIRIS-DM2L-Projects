@@ -62,11 +62,6 @@ PhD Students
 **PhD Title**: Methods and tools for the diachronic study of geographic discourse in French encycopedia  
 **Supervision**: Frédérique Laforest, Ludovic Moncla, Denis Vigier
 
-* * *
-
-**Jean-Baptiste GUIMBAUD** - UCBL, ISGlobal, [Meersens](https://meersens.com) - [Website](https://liris.cnrs.fr/page-membre/jean-baptiste-guimbaud) \- Dates: 2021 to 2024  
-**PhD Title**: Predicting and explaining health trajectories using omics data and XAI  
-**Supervision**: Rémy Cazabet, Marc Plantevit
 
 
 
@@ -108,6 +103,12 @@ Alumni (PhD students + Postdoc, Engineers)
 **Antoine Taroni** - CNRS - [Website](https://liris.cnrs.fr/page-membre/antoine-taroni) \- Dates: 2023 to 2024  
 **Engineer**: GEODE project: Toponym Disambiguation, Entity Linking and Geographic Knowledge Graphs.    
 **Supervision**: Ludovic Moncla
+
+* * *
+
+**Jean-Baptiste GUIMBAUD** - UCBL, ISGlobal, [Meersens](https://meersens.com) - [Website](https://liris.cnrs.fr/page-membre/jean-baptiste-guimbaud) \- Dates: 2021 to 2024  
+**PhD Title**: Predicting and explaining health trajectories using omics data and XAI  
+**Supervision**: Rémy Cazabet, Marc Plantevit
 
 * * *
 
