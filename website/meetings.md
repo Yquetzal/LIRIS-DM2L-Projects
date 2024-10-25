@@ -15,7 +15,8 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 
 **Abstract**
 Rehersal of a presentation at WISE conference
-------
+
+--------
 
 ### Paraphrase generation for conversational services learning (PhD defence rehersal)
 
@@ -31,7 +32,7 @@ Developing a bot implies the ability to transform a user expression into one or 
 
 In this thesis, we propose leveraging the existing PG techniques to generate high-quality datasets for training bots. The focus is on collecting a large number of utterances while ensuring specific linguistic quality criteria such as semantic relevance and diversity. Key contributions include the implementation and evaluation of a baseline PG pipeline and addressing challenges, such as semantic relevance and diversity. A taxonomy of 15 errors types identified in PG models that use the transformer~\cite{vaswani2017attention} architecture. Development of a novel annotated dataset where paraphrases were annotated using the proposed taxonomy. Furthermore, we leveraged this annotated dataset to develop a multilabel paraphrase annotation model. Inspired by previous crowdsourcing studies, we investigate the potential of leveraging LLMs such as GPT-3.5, for syntactically diverse PG tasks. We propose replicating an existing crowdsourcing study that proposes a multistage paraphrase pipeline that guides crowdsourcing to produce syntactically diverse paraphrases. We substitute human crowdworkers with LLMs and perform a comparative analysis to demonstrate their effectiveness in controlled PG tasks. Overall, this thesis presents a comprehensive exploration of automated PG techniques to address the challenges of acquiring high-quality datasets for building robust and responsive Dialogue Services.
 
---
+--------
 
 ### Learning  and Model Transfer  for  Manifold-Valued Data
 
