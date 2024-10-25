@@ -7,6 +7,15 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 ## You can add the DM2L meetings schedule to your calendar using the following [link](https://calendar.google.com/calendar/ical/55666c87f63af1371cd9abc408dc68609b2c2f9c6406fe3fca1d724f1311da8b%40group.calendar.google.com/public/basic.ics).
 
 --------
+### iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models
+
+**Day, Time, Location**:  Friday November 22 2024, 11:00
+
+**Speaker**: Yassir Lairgi
+
+**Abstract**
+Rehersal of a presentation at WISE conference
+------
 
 ### Paraphrase generation for conversational services learning (PhD defence rehersal)
 
