@@ -7,11 +7,49 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 ## You can add the DM2L meetings schedule to your calendar using the following [link](https://calendar.google.com/calendar/ical/55666c87f63af1371cd9abc408dc68609b2c2f9c6406fe3fca1d724f1311da8b%40group.calendar.google.com/public/basic.ics).
 
 --------
+### Y Social: an LLM-powered Social Media Digital Twin
+
+**Day, Time, Location**:  Friday December 6 2024, 11:00
+
+**Speaker**: Andrea Failla, Visiting Ph.D student, University of Pisa
+
+**Article**: [https://arxiv.org/pdf/2408.00818]
+**Code**: [https://github.com/YSocialTwin]
+
+**Abstract**
+We introduce Y, a new-generation digital twin designed to replicate an online social media platform. Digital twins are virtual replicas of physical systems that allow for advanced analyses and experimentation. In the case of social media, a digital twin such as Y provides a powerful tool for researchers to simulate and understand complex online interactions. Y leverages state-of-the-art Large Language Models (LLMs) to replicate sophisticated agent behaviors, enabling accurate simulations of user interactions, content dissemination, and network dynamics. By integrating these aspects, Y offers valuable insights into user engagement, information spread, and the impact of platform policies. Moreover, the integration of LLMs allows Y to generate nuanced textual content and predict user responses, facilitating the study of emergent phenomena in online environments. To better characterize the proposed digital twin, in the paper we describe the rationale behind its implementation, provide examples of the analyses that can be performed on the data it enables to be generated, and discuss its relevance for multidisciplinary research.
+
+--------
+
+### Inside Alameda Research: A Multi-Token Network Analysis
+
+**Day, Time, Location**:  Friday December 6 2024, 11:30
+
+**Speaker**: Célestin Coquidé, Postdoctorant DM2L
+
+**Article**: [https://arxiv.org/pdf/2409.10949]
+
+**Abstract**
+Abstract: We analyze the token transfer network on Ethereum, focus-
+ing on accounts associated with Alameda Research, a cryptocurrency
+trading firm implicated in the misuse of FTX customer funds. Using a
+multi-token network representation, we examine node centralities and
+the network backbone to identify critical accounts, tokens, and activity
+groups. The temporal evolution of Alameda accounts reveals shifts in to-
+ken accumulation and distribution patterns leading up to its bankruptcy
+in November 2022. Through network analysis, our work offers insights
+into the activities and dynamics that shape the DeFi ecosystem.
+
+--------
+
 ### iText2KG: Incremental Knowledge Graphs Construction Using Large Language Models
 
 **Day, Time, Location**:  Friday November 22 2024, 11:00
 
 **Speaker**: Yassir Lairgi
+
+**Article**: [https://arxiv.org/pdf/2408.00818](https://arxiv.org/abs/2409.03284)
+**Code**: [https://github.com/YSocialTwin](https://github.com/AuvaLab/itext2kg)
 
 **Abstract**
 Abstract: Most available data is unstructured, making it challenging to access valuable information. Automatically building Knowledge Graphs (KGs) is crucial for structuring data and making it accessible, allowing users to search for information effectively. KGs also facilitate insights, inference, and reasoning. Traditional NLP methods, such as named entity recognition and relation extraction, are key in information retrieval but face limitations, including the use of predefined entity types and the need for supervised learning. Current research leverages large language models’ capabilities, such as zero- or few-shot learning. However, unresolved and semantically duplicated entities and relations still pose challenges, leading to inconsistent graphs and requiring extensive post-processing. Additionally, most approaches are topic-dependent. In this paper, we propose iText2KG3, a method for incremental, topic-independent KG construction without post-processing. This plug-and-play, zero-shot method is applicable across a wide range of KG construction scenarios and comprises four modules: Document Distiller, Incremental Entity Extractor, Incremental Relation Extractor, and Graph Integrator and Visualization. Our method demonstrates superior performance compared to baseline methods across three scenarios: converting scientific papers to graphs, websites to graphs, and CVs to graphs.
