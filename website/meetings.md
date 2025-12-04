@@ -18,25 +18,9 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 **Baptiste Brunet de la Charie (PhD student, CIFRE)**
 **Abstract**: Causal relation extraction remains challenging due to small benchmark sizes, the complexity of event semantics, long-distance dependencies, and the scarcity of positive instances. We present an agentic framework that augments large language models (LLMs) with light weight tools: a dataset-specific coherence checker enforcing relation-logic rules, and a counterfactual pairs for re-assessing causal dependencies by counterfactual generation. We target document-level Event Relation Extraction on MECI. Our agent achieves competitive results versus strong LLM baselines and graph-based PLMs while not requiring training data, with tool use demonstrating clear improvements and resampling revealing systematic errors. We release a schema compatible dataset interface, prompt registry, and rule language to simplify reproduction and extension.
 
+
 -----------------------
-**Vendredi 16 Mai a 11h, salle Blaise Pascal 502.3.23**
-2 présentations : 
 
-* Indira Tsirikhova :  Solutions Big Data pour le streaming : Architecture Kafka-Spark pour le traitement et l’analyse des données (introduction au sujet)
-* Arthur Batel : Combining adaptative learning and few shot meta-learning to quickly estimate individuals mental health
-Comme d’habitude vous pouvez amener quelque chose a partager pour manger après si cela vous tente.
-
----------
-
-**Lundi 2 Juin a 10h, Amphi Chappe (Ada Lovelace)**
-Pré-soutenance de thèse d’Alice Brenon, doctorante dans l’équipe.
-
-**Titre**: Méthodes et outils pour l’étude diachronique des discours géographiques dans deux encyclopédies françaises
-Résumé: Dans le cadre du projet GEODE du LabEx ASLAN, cette thèse étudie en diachronie les discours géographiques dans deux encyclopédies françaises. L’Encyclopédie, Dictionnaire Raisonné des sciences, des arts et des métiers (EDdA), emblématique du siècle des Lumières, constitue la borne la plus ancienne de l’intervalle. Celui-ci s’étend jusqu’à la fin du XIXème siècle, représenté par La Grande Encyclopédie, Inventaire raisonné des Sciences, des Lettres et des Arts (LGE). Au travers de trois contributions principales, les travaux abordent des thématiques telles que la préparation des données et l’encodage en particulier, la classification automatique et les analyses textométriques. En confrontant des méthodes simples de la théorie des graphes à des remar- ques structurelles sur les éléments présents dans les encyclopédies, la première étude souligne les différences fondamentales qui existent entre dictionnaires et encyclopédies en termes de structures et aboutit à la proposition d’un encodage XML-TEI pour représenter une encyclopédie, qui est appliqué sur la première édition numérique de LGE. La comparaison de méthodes de classifications permet ensuite de choisir un modèle pour associer un domaine de connaissance à chaque article du corpus, ce qui rend possible la conduite d’analyses contrastives dans la dernière partie de la thèse. Un examen attentif des erreurs commises par un des classifieurs sur l’EDdA révèle des ressemblances existantes entre les domaines et montre une Géographie très au contact des autres sciences au XVIIIème siècle. Pour finir, les deux œuvres sont comparées pour mettre en relief les changements survenus dans la manière d’écrire la Géographie. Un premier développement quantifie puis caractérise la variation dans les articles du domaine (à l’aide de statistiques sur le nombre de mots et leurs longueurs puis en étudiant les mouvements d’entrées entre domaines) Les apports de la textométrie sont enfin utilisés pour approfondir la compréhension des liens entre biographies et discours géographiques.
-
-
-
--------------
 **Date**: Mercredi 15 Octobre 2025, 11h
 
 **Lieu**: salle 502.3.23, bâtiment Blaise Pascal
@@ -51,6 +35,24 @@ Résumé: Dans le cadre du projet GEODE du LabEx ASLAN, cette thèse étudie en 
 
 
 --------
+
+**Lundi 2 Juin a 10h, Amphi Chappe (Ada Lovelace)**
+Pré-soutenance de thèse d’Alice Brenon, doctorante dans l’équipe.
+
+**Titre**: Méthodes et outils pour l’étude diachronique des discours géographiques dans deux encyclopédies françaises
+Résumé: Dans le cadre du projet GEODE du LabEx ASLAN, cette thèse étudie en diachronie les discours géographiques dans deux encyclopédies françaises. L’Encyclopédie, Dictionnaire Raisonné des sciences, des arts et des métiers (EDdA), emblématique du siècle des Lumières, constitue la borne la plus ancienne de l’intervalle. Celui-ci s’étend jusqu’à la fin du XIXème siècle, représenté par La Grande Encyclopédie, Inventaire raisonné des Sciences, des Lettres et des Arts (LGE). Au travers de trois contributions principales, les travaux abordent des thématiques telles que la préparation des données et l’encodage en particulier, la classification automatique et les analyses textométriques. En confrontant des méthodes simples de la théorie des graphes à des remar- ques structurelles sur les éléments présents dans les encyclopédies, la première étude souligne les différences fondamentales qui existent entre dictionnaires et encyclopédies en termes de structures et aboutit à la proposition d’un encodage XML-TEI pour représenter une encyclopédie, qui est appliqué sur la première édition numérique de LGE. La comparaison de méthodes de classifications permet ensuite de choisir un modèle pour associer un domaine de connaissance à chaque article du corpus, ce qui rend possible la conduite d’analyses contrastives dans la dernière partie de la thèse. Un examen attentif des erreurs commises par un des classifieurs sur l’EDdA révèle des ressemblances existantes entre les domaines et montre une Géographie très au contact des autres sciences au XVIIIème siècle. Pour finir, les deux œuvres sont comparées pour mettre en relief les changements survenus dans la manière d’écrire la Géographie. Un premier développement quantifie puis caractérise la variation dans les articles du domaine (à l’aide de statistiques sur le nombre de mots et leurs longueurs puis en étudiant les mouvements d’entrées entre domaines) Les apports de la textométrie sont enfin utilisés pour approfondir la compréhension des liens entre biographies et discours géographiques.
+
+-------------
+
+**Vendredi 16 Mai a 11h, salle Blaise Pascal 502.3.23**
+2 présentations : 
+
+* Indira Tsirikhova :  Solutions Big Data pour le streaming : Architecture Kafka-Spark pour le traitement et l’analyse des données (introduction au sujet)
+* Arthur Batel : Combining adaptative learning and few shot meta-learning to quickly estimate individuals mental health
+Comme d’habitude vous pouvez amener quelque chose a partager pour manger après si cela vous tente.
+
+---------
+
 ### Y Social: an LLM-powered Social Media Digital Twin
 
 **Day, Time, Location**:  Friday December 6 2024, 11:00
