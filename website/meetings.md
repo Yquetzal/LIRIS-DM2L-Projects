@@ -6,6 +6,28 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 
 ## You can add the DM2L meetings schedule to your calendar using the following [link](https://calendar.google.com/calendar/ical/55666c87f63af1371cd9abc408dc68609b2c2f9c6406fe3fca1d724f1311da8b%40group.calendar.google.com/public/basic.ics).
 
+
+----------------
+**Day, Time, Location**:  December 11 2025, 13:00
+
+### ATOM: AdapTive and OptiMized dynamic temporal knowledge graph construction using LLMs
+**Yassir Lairgi (PhD student, CIFRE)**
+**Abstract**: In today’s rapidly expanding data landscape, knowledge extraction from unstructured text is vital for real-time analytics, temporal inference, and dynamic memory frameworks. However, traditional static knowledge graph (KG) construction often overlooks the dynamic and time-sensitive nature of real-world data, limiting adaptability to continuous changes. Moreover, recent zero- or few-shot approaches that avoid domain-specific fine-tuning or reliance on prebuilt ontologies often suffer from instability across multiple runs, as well as incomplete coverage of key facts. To address these challenges, we introduce ATOM (AdapTive and OptiMized), a few-shot and scalable approach that builds and continuously updates Temporal Knowledge Graphs (TKGs) from unstructured texts. ATOM splits input documents into minimal, self-contained “atomic” facts, improving extraction exhaustivity and stability. From these atomic facts, atomic KGs are derived and then merged in parallel. Empirical evaluations demonstrate that ATOM maintains high exhaustivity, achieves stability across multiple runs, and outperforms baseline methods while ensuring low latency and high scalability for large-scale deployments.
+
+### Causal Relation Extraction Agent with Tools
+**Baptiste Brunet de la Charie (PhD student, CIFRE)**
+**Abstract**: Causal relation extraction remains challenging due to small benchmark sizes, the complexity of event semantics, long-distance dependencies, and the scarcity of positive instances. We present an agentic framework that augments large language models (LLMs) with light weight tools: a dataset-specific coherence checker enforcing relation-logic rules, and a counterfactual pairs for re-assessing causal dependencies by counterfactual generation. We target document-level Event Relation Extraction on MECI. Our agent achieves competitive results versus strong LLM baselines and graph-based PLMs while not requiring training data, with tool use demonstrating clear improvements and resampling revealing systematic errors. We release a schema compatible dataset interface, prompt registry, and rule language to simplify reproduction and extension.
+
+-------------
+**Date**: Mercredi 15 Octobre 2025, 11h
+**Lieu**: salle 502.3.23, bâtiment Blaise Pascal
+**Titre**: BeWater : Vers des rassemblements décentralisés efficaces dans les réseaux de rues
+**Orateur**: Guillaume Moinard, doctorant au LIP6
+**Résumé**: Lors de mouvements sociaux, tels que des manifestations, il arrive que des contre-force dispersent les manifestants et confisquent ou surveillent leurs moyens de communication.
+   Pour que leur action perdure, ces marcheurs veulent se rassembler dans la ville en groupes suffisamment importants, quand bien même ils n’ont pas de moyen de communiquer. Dans ce scénario, ils ont besoin d’un protocole distribué et aussi simple que possible, qui utilise exclusivement les éléments observables dans leur environnement direct.
+   Nous présentons un nouvel algorithme de marche, BeWater, pour les rassemblements sur des réseaux urbains pondérés. Nous montrons que son efficacité dépend de l’observable utilisé par les marcheurs pour pondérer les liens (sa longueur, sa largeur, etc.). Pour une ville donnée, nous sommes en mesure d’expliquer l’efficacité d’une observable en étudiant les rassemblements de marcheurs comme des gouttes d’eau suivant les pentes d’un bassin versant. Nous proposons enfin des tactiques très efficaces en combinant plusieurs observables. Les groupes ainsi formés sont robustes, c’est à dire capables de se reformer rapidement en cas d’une nouvelle dispersion.
+
+
 --------
 ### Y Social: an LLM-powered Social Media Digital Twin
 
