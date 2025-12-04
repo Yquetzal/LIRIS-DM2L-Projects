@@ -44,6 +44,7 @@ Résumé: Dans le cadre du projet GEODE du LabEx ASLAN, cette thèse étudie en 
 
 -------------
 
+
 **Vendredi 16 Mai a 11h, salle Blaise Pascal 502.3.23**
 2 présentations : 
 
@@ -52,7 +53,15 @@ Résumé: Dans le cadre du projet GEODE du LabEx ASLAN, cette thèse étudie en 
 Comme d’habitude vous pouvez amener quelque chose a partager pour manger après si cela vous tente.
 
 ---------
+**16 Avril 2025**
 
+* 11h30-12h00: Elouan Vincent: Diffusion for unsupervised anomaly detection
+* 12h00-12h30: Rémy Cazabet: The Map Equation Goes Neural: Mapping Network Flows with Graph Neural Networks (https://proceedings.neurips.cc/paper_files/paper/2024/hash/1f59562caae05e6aae0ffd1145bea5da-Abstract-Conference.html)
+
+
+
+
+----------
 ### Y Social: an LLM-powered Social Media Digital Twin
 
 **Day, Time, Location**:  Friday December 6 2024, 11:00
