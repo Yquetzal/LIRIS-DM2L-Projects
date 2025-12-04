@@ -59,6 +59,19 @@ Comme d’habitude vous pouvez amener quelque chose a partager pour manger aprè
 * 12h00-12h30: Rémy Cazabet: The Map Equation Goes Neural: Mapping Network Flows with Graph Neural Networks (https://proceedings.neurips.cc/paper_files/paper/2024/hash/1f59562caae05e6aae0ffd1145bea5da-Abstract-Conference.html)
 
 
+----------------------
+**Wednesday, April 2 at 11 a.m., room C008 in the Nautibus building.**
+
+**11:00–11:30 a.m.:** presentation of their research topics by interns — 5 minutes per presentation + 5 minutes for questions.
+-**Bin Yang**: Construction automatique d’un graphe de connaissance géographique à partir des entrées encyclopédiques avec des LLMs
+-**Indira Tsirikhova**: Graph Neural Networks with Attention to Understand the Colonization of Mosquito Larval Habitats According to their Biotic and Abiotic Characteristics
+-**Valentin Cuzin-Rambaud**: Self-supervised learning for link prediction
+
+**11:30-12:00(+)**:
+**Alessio Ragno** will introduce his recent work:
+**Title**: Faithful Explanations for Graph Classification using Logic
+
+**Abstract**: Most post-hoc explainability methods for graph classification analyze the model’s internal representations rather than explicitly capturing its reasoning process. These approaches typically rely on perturbations, gradients, or optimization techniques to infer important features but do not approximate the decision-making function itself. In this paper, we propose a novel approach that directly models the GNN’s decision function using a Transparent Explainable Logic Layer (TELL). This logic-based approximation enables both instance-level and global-level explanations, offering insights into how node embeddings contribute to predictions. Unlike conventional methods, our approach derives explanations that are structurally aligned with the model’s decision process rather than being externally imposed. Through experiments on synthetic and real-world graph classification tasks, we show that our method produces faithful, sparse, and stable explanations, outperforming existing techniques.
 
 
 ----------
