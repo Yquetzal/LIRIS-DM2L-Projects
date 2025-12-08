@@ -33,6 +33,16 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
    Pour que leur action perdure, ces marcheurs veulent se rassembler dans la ville en groupes suffisamment importants, quand bien même ils n’ont pas de moyen de communiquer. Dans ce scénario, ils ont besoin d’un protocole distribué et aussi simple que possible, qui utilise exclusivement les éléments observables dans leur environnement direct.
    Nous présentons un nouvel algorithme de marche, BeWater, pour les rassemblements sur des réseaux urbains pondérés. Nous montrons que son efficacité dépend de l’observable utilisé par les marcheurs pour pondérer les liens (sa longueur, sa largeur, etc.). Pour une ville donnée, nous sommes en mesure d’expliquer l’efficacité d’une observable en étudiant les rassemblements de marcheurs comme des gouttes d’eau suivant les pentes d’un bassin versant. Nous proposons enfin des tactiques très efficaces en combinant plusieurs observables. Les groupes ainsi formés sont robustes, c’est à dire capables de se reformer rapidement en cas d’une nouvelle dispersion.
 
+-------
+
+**Ian DAVIDSON**
+
+**Thursday July 3, 2025**, 14:00-15:00, room FONTANNES (Charles Darwin Building D Ground floor, on the left when entering the hall), opposite the T1/T4 tram station Université Lyon 1, LyonTech-la Doua Campus. 
+
+**Abstract** : It is inevitable that AIs will soon be making many life-altering decisions on us. Because of this, we need to ensure their behavior is guided by human values—a challenge widely known as the AI Alignment problem. I'll discuss our work on fairness and explanation, presenting both theoretical and experimental results developed with collaborators, particularly our medical center. Our research has focused on classic tasks like outlier detection, classification and clustering for images, as well as more recent work involving large language models. Underlying this research is a common fundamental set of questions of how to encode constraints and extract constraints into/from deep learning. Finally, most AI alignment work focuses on the topics of fairness and explanation, which are only a small part of what it means for a machine to be truly ethical. I'll conclude by discussing future work that goes beyond these topics.
+
+**Bio **: Ian Davidson has been a Professor of Computer Science and the University of California - Davis since 2007. In the 2000s he focused on adding constraints to machine learning algorithms particularly clustering, in the 2010s he focused on tensor decomposition and transfer learning. After a 2018 sabbatical stay in France (where someone asked him what was the ethical implications of his work) he has focused on making AIs more ethical. He also works with domain experts to apply his work to problems of social significance in particular neuroscience applications. This work is funded by gifts from Google, Yahoo and Intel and grants from the National Science Foundation (NSF), The Office of Naval Research (ONR) and The National Institute of Health (NIH).
+
 
 --------
 
