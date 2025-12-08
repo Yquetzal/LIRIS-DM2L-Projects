@@ -232,6 +232,37 @@ Cette présentation explore trois applications de la théorie des graphes dans l
 
 ---
 
+**Journée d'équipe DM2L**
+**7 Septembre 2023**
+
+# Programme de la journée
+
+## Matin
+
+| Heure           | Intervenant          | Titre / Sujet |
+|-----------------|-----------------------|----------------|
+| 08:30           | —                     | Accueil |
+| 09:00 - 09:30   | Thomas **Ranvier**    | *Deep Multi-Source Supervised Domain Adaptation with Class Imbalance* |
+| 09:30 - 10:00   | JB **Guimbaud**       | *Informed ML for Environmental Risk Scores* |
+| 10:00 - 10:30   | Leonard **Tschora**   | *A Differentiable Optimization Approach for EPF* |
+| 10:30 - 11:00   | —                     | Pause |
+| 11:00 - 11:30   | Ata                   | *Game Theoretic Explanations for Graph Neural Networks* |
+| 11:30 - 12:00   | Mehdi **Hennequin**   | *PAC-Bayesian Bounds for Domain Adaptation Multiview* |
+| 12:00 - 12:30   | Yacine **Gaci** (visio) | *Targeting the Source: Selective Data Curation for Debiasing NLP Models* |
+| 12:30 - 14:00   | —                     | Repas |
+
+## Après-midi
+
+| Heure           | Intervenant          | Titre / Sujet |
+|-----------------|-----------------------|----------------|
+| 14:00 - 15:00   | Yann **Guermeur**     | *Guaranteed Risks for Small Values of the Margin Parameter* |
+| 15:00 - 15:30   | —                     | Pause |
+| 15:30 - 16:00   | Auday **Berro**       | *Syntactic Diversity Unleashed: Crowdsourcing vs. GPT’s Diversity-Aware Paraphrases with Prompts and Workflows* |
+| 16:00 - 16:30   | Rémy **Cazabet**      | Projet prédiction de liens |
+| 16:30 - 17:00   | —                     | Temps libre |
+
+---
+
 ### Spike detection in brain activity recordings of epilepsy patients
 
 **Day and Time**: Friday June 30, from 11:00 to 12:00
