@@ -36,7 +36,7 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 
 --------
 
-**Lundi 2 Juin a 10h, Amphi Chappe (Ada Lovelace)**
+**Lundi 2 Juin 2025 a 10h, Amphi Chappe (Ada Lovelace)**
 Pré-soutenance de thèse d’Alice Brenon, doctorante dans l’équipe.
 
 **Titre**: Méthodes et outils pour l’étude diachronique des discours géographiques dans deux encyclopédies françaises
@@ -45,7 +45,7 @@ Résumé: Dans le cadre du projet GEODE du LabEx ASLAN, cette thèse étudie en 
 -------------
 
 
-**Vendredi 16 Mai a 11h, salle Blaise Pascal 502.3.23**
+**Vendredi 16 Mai 2025 a 11h, salle Blaise Pascal 502.3.23**
 2 présentations : 
 
 * Indira Tsirikhova :  Solutions Big Data pour le streaming : Architecture Kafka-Spark pour le traitement et l’analyse des données (introduction au sujet)
@@ -60,7 +60,7 @@ Comme d’habitude vous pouvez amener quelque chose a partager pour manger aprè
 
 
 ----------------------
-**Wednesday, April 2 at 11 a.m., room C008 in the Nautibus building.**
+**Wednesday, April 2 2025 at 11 a.m., room C008 in the Nautibus building.**
 
 **11:00–11:30 a.m.:** presentation of their research topics by interns — 5 minutes per presentation + 5 minutes for questions.
 -**Bin Yang**: Construction automatique d’un graphe de connaissance géographique à partir des entrées encyclopédiques avec des LLMs
@@ -224,7 +224,7 @@ Cette présentation explore trois applications de la théorie des graphes dans l
 
 ### Reading Maps: Making, Searching, and Interpreting Text on Maps
 
-**Day and Time**: Monday October 23, from 13:00 to 14:00
+**Day and Time**: Monday October 23 2023, from 13:00 to 14:00
 
 **Speaker**: Katherine McDonough (Lancaster University and The Alan Turing Institute)
 
@@ -275,7 +275,7 @@ Cette présentation explore trois applications de la théorie des graphes dans l
 
 ### ATTRIBUTED STREAM HYPERGRAPHS: TEMPORAL MODELING OF NODE-ATTRIBUTED HIGH-ORDER INTERACTIONS
 
-**Day and Time**: Friday May 26, from 11:00 to 12:00
+**Day and Time**: Friday May 26 2023, from 11:00 to 12:00
 
 **Speaker**: Andrea Failla (University of Pisa, visiting PhD student)
 
@@ -286,7 +286,7 @@ A novel toolbox, that of Attributed Stream Hypergraphs (ASHs), unifies both high
 
 ### Seminar (DM2L/AIStroSight): ML & Health
 
-**Day and Time**: Friday May 5, from 11:30 to 12:30
+**Day and Time**: Friday May 5 2023, from 11:30 to 12:30
 
 **Speaker**: Jean-Baptiste Guimbaud (DM2L) & Hana Sebia (AIStroSight)
 
@@ -300,7 +300,7 @@ Résumé : Tensor decomposition has recently been gaining increasing attention i
 
 ### Forecasting Electricity Prices: an Optimize then Predict-based approach 
 
-**Day and Time**: Friday april 7, from 11:30 to 12:30
+**Day and Time**: Friday april 7 2023, from 11:30 to 12:30
 
 **Speaker**: Leonard Tschora
 
@@ -320,7 +320,7 @@ performance of the price forecasting for several zones together.
 
 ### Explaining machine learning models on graphs by identifying hidden structures built by GNNs
 
-**Day and Time**: Friday March 24, from 12:30 to 13:30
+**Day and Time**: Friday March 24 2023, from 12:30 to 13:30
 
 **Speaker**: Luca Veyrin-Forrer
 
@@ -333,7 +333,7 @@ Activation rules are not interpretable by themselves since they only define inte
 ---
 
 ### Temporal network compression via network hashing
-**Day and Time**: Friday February 23, 12:30
+**Day and Time**: Friday February 23 2023, 12:30
 
 **Speaker**: Rémi Vaudaine (ENS de Lyon, France)
 
@@ -347,21 +347,21 @@ To tackle this issue, we propose a streaming matrix algorithm that only requires
 ---
 
 ### mFils: Tri-selection via convex and nonconvex regularizations
-**Day and Time**: Friday February 10, 2p.m
+**Day and Time**: Friday February 10 2023, 2p.m
 
 **Speaker**: Doul El Kefel Mansouri (université de Tiaret, Algérie)
 
 ---
 
 ### Introduction to the Julia programming language
-**Day and Time**: Friday February 3, 12:30
+**Day and Time**: Friday February 3 2023, 12:30
 
 **Speaker**: Léonard Tschora
 
 ---
 
 ### Discussion around the paper: "Everything is Connected: Graph Neural Networks"
-**Day and Time**: Friday January 27, 12:30
+**Day and Time**: Friday January 27 2023, 12:30
 
 **Speaker**: Rémy Cazabet
 
@@ -370,7 +370,7 @@ Paper: https://www.arxiv-vanity.com/papers/2301.08210/
 ---
 
 ### Synthesis of Artificial Intelligence Techniques for Cyber Defense
-**Day and Time**: Friday November 25, 12:30
+**Day and Time**: Friday November 25 2022, 12:30
 
 **Speaker**: Giuseppina Andresini
 
