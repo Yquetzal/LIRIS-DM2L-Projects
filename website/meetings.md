@@ -6,6 +6,23 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 
 ## You can add the DM2L meetings schedule to your calendar using the following [link](https://calendar.google.com/calendar/ical/55666c87f63af1371cd9abc408dc68609b2c2f9c6406fe3fca1d724f1311da8b%40group.calendar.google.com/public/basic.ics).
 
+----------------
+**Day, Time, Location**:  December 19 2025, 11:00
+
+### A Network Science Perspective on Blockchain and Decentralized Finance
+**Natkamon Tovanich (Postdoctoral Researcher, TU Wien, Autriche)**
+**Abstract**: We apply network science methodologies to address analytical challenges in blockchain and Decentralized Finance (DeFi). The pseudonymous nature of Bitcoin and the complex, multi-token interactions of Ethereum-based protocols require tools that go beyond traditional blockchain analysis. We present three network-based frameworks for understanding actor behavior and financial activities in these decentralized systems.
+
+First, for Bitcoin, we introduce a money flow representation learning approach that encodes taint networks into graph embeddings to identify entities across multiple address clusters.
+
+Second, we analyze DeFi activity using ego network motif mining, which extracts recurring structures from token transfer networks. This method can infer transaction methods (e.g., deposits, swaps, borrowing) and characterizes user behavior, even when labels are incomplete or noisy.
+
+Third, we model multi-token interactions through a Multilayer Token Network that links cross-token flows. Using PageRank-CheiRank Trade Balance, we quantify accumulation versus dispersion strategies and uncover temporal shifts in trading behavior, illustrated through entities such as Alameda Research.
+
+Together, these frameworks show how network topology, motifs, and multilayer flows transform raw blockchain data into interpretable insights on identity, function, and financial strategy.
+
+
+
 
 ----------------
 **Day, Time, Location**:  December 11 2025, 13:00
