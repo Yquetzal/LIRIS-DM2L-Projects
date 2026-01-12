@@ -10,7 +10,9 @@ Or simply send an email with title: "subscribe ml-ann-liris Firstname Name" to [
 **Day, Time, Location**:  December 19 2025, 11:00
 
 ### A Network Science Perspective on Blockchain and Decentralized Finance
+
 **Natkamon Tovanich (Postdoctoral Researcher, TU Wien, Autriche)**
+
 **Abstract**: We apply network science methodologies to address analytical challenges in blockchain and Decentralized Finance (DeFi). The pseudonymous nature of Bitcoin and the complex, multi-token interactions of Ethereum-based protocols require tools that go beyond traditional blockchain analysis. We present three network-based frameworks for understanding actor behavior and financial activities in these decentralized systems.
 
 First, for Bitcoin, we introduce a money flow representation learning approach that encodes taint networks into graph embeddings to identify entities across multiple address clusters.
@@ -28,11 +30,15 @@ Together, these frameworks show how network topology, motifs, and multilayer flo
 **Day, Time, Location**:  December 11 2025, 13:00
 
 ### ATOM: AdapTive and OptiMized dynamic temporal knowledge graph construction using LLMs
+
 **Yassir Lairgi (PhD student, CIFRE)**
+
 **Abstract**: In today’s rapidly expanding data landscape, knowledge extraction from unstructured text is vital for real-time analytics, temporal inference, and dynamic memory frameworks. However, traditional static knowledge graph (KG) construction often overlooks the dynamic and time-sensitive nature of real-world data, limiting adaptability to continuous changes. Moreover, recent zero- or few-shot approaches that avoid domain-specific fine-tuning or reliance on prebuilt ontologies often suffer from instability across multiple runs, as well as incomplete coverage of key facts. To address these challenges, we introduce ATOM (AdapTive and OptiMized), a few-shot and scalable approach that builds and continuously updates Temporal Knowledge Graphs (TKGs) from unstructured texts. ATOM splits input documents into minimal, self-contained “atomic” facts, improving extraction exhaustivity and stability. From these atomic facts, atomic KGs are derived and then merged in parallel. Empirical evaluations demonstrate that ATOM maintains high exhaustivity, achieves stability across multiple runs, and outperforms baseline methods while ensuring low latency and high scalability for large-scale deployments.
 
 ### Causal Relation Extraction Agent with Tools
+
 **Baptiste Brunet de la Charie (PhD student, CIFRE)**
+
 **Abstract**: Causal relation extraction remains challenging due to small benchmark sizes, the complexity of event semantics, long-distance dependencies, and the scarcity of positive instances. We present an agentic framework that augments large language models (LLMs) with light weight tools: a dataset-specific coherence checker enforcing relation-logic rules, and a counterfactual pairs for re-assessing causal dependencies by counterfactual generation. We target document-level Event Relation Extraction on MECI. Our agent achieves competitive results versus strong LLM baselines and graph-based PLMs while not requiring training data, with tool use demonstrating clear improvements and resampling revealing systematic errors. We release a schema compatible dataset interface, prompt registry, and rule language to simplify reproduction and extension.
 
 
