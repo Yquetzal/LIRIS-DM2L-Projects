@@ -48,6 +48,12 @@
 "webpage":"http://cazabetremy.fr",
  "twitter":"https://twitter.com/Yquetzal"
 },
+{"name":"Mehdi Kaytoue-Uberall",
+"affiliation":"INSA Lyon",
+"keywords":"Artificial Intelligence, Knowledge Discovery, Data Mining, Formal Concept Analysis, Pattern Mining, Subgroup Discovery, Applications, Industry",
+"photo":"https://mehdi-kaytoue.github.io/profile.jpg",
+"webpage":"https://mehdi-kaytoue.github.io"
+},
       {"name":"Haytham Elghazel",
 "affiliation":"UCBL",
 "keywords":"ensemble models, mixture models",
