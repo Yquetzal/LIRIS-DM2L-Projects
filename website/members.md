@@ -91,12 +91,6 @@ Serge Fenet (Until 2021 - En détachement)
 *   Affiliation: UCBL
 *   [Website](https://liris.cnrs.fr/page-membre/serge-fenet)
 
-Mehdi Kaytoue (Until 2019 - En détachement)
--------------------------------------------
-
-*   Affiliation: UCBL
-*   [Website](https://www.lrde.epita.fr/wiki/User:Marc)
-
 Alumni (PhD students + Postdoc, Engineers)
 ==============================
 
